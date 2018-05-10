@@ -6,7 +6,7 @@ A collection of sorting algorithms and code to measure their running time
 This repo contains some random code that implements a few common sorting algorithms, along with generic code to test said algs and measure their running time.
 
 ## Using the code
-The actual algorithms are implemented in files with the name *sort.py. The following algorithms are currently implemented:
+The actual algorithms are implemented in files with the name \*sort.py. The following algorithms are currently implemented:
 * Insertion sort
 * Merge sort
 * Quicksort
